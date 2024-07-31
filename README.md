@@ -1,4 +1,5 @@
 Tour-and-Travel-Customer-Churn-Analysis
+
 Objective - Dashboard to deliver meaningful insights and actionable information about the customers of a tour and travel company and their retention rate.
 
 Tools used: Microsoft Excel, Microsoft Power BI
