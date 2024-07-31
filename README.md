@@ -1,3 +1,5 @@
+A travel company wants to predict whether its customers will churn based on indicators like age, frequent flyer information, annual income, and services used. This project is focused on predicting customer churn for a tour and travels company. Customer churn refers to when a customer stops using a company's services. 
+
 Tour-and-Travel-Customer-Churn-Analysis
 
 Objective - Dashboard to deliver meaningful insights and actionable information about the customers of a tour and travel company and their retention rate.
