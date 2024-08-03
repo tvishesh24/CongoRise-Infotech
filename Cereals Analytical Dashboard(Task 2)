@@ -1,0 +1,20 @@
+Cereals Analytical Dashboard(Task 2)
+
+Objective- Dashboard to give insights into the nutritional composition of cereals, including calories, sugars, fiber, fat, protein, sodium, and other key nutrients.
+Tool used- Power Bi
+Steps Include:
+Data cleaning- Null Values and outliers were removed.
+Data Visualisation- Dashboard Creation
+
+𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
+cards, Stacked Bar Chart, Column Chart, Table, Slicer, Pie Chart, Donut Chart, Ribbon Chart
+
+𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐫𝐨𝐦 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
+There are total 77 different cereals.
+The average customer rating across all cereals is 42.8, which shows a moderate level of satisfaction.
+Cereals contains an average of 2.5 grams of protein per serving.
+Average Calories is 107.
+There are 8 manufacturers in which General Mills and Kellogg's has the highest number of products 23 and 22 respectively.
+The top-rated cereal is All-Bran with Extra Fiber with rating of 93.7, while the lowest-rated is Nut&Honey Crunch with a rating of 14.6.
+There are 74 cold and 3 hot cereals which shows that market's demand for cold over hot cereals.
+Shelf 3 has maximum number of cereals whereas shelf 1 has minimum number of cereals.
